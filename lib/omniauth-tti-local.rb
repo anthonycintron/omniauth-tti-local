@@ -1,2 +1,2 @@
-require "omniauth-tti-local/version"
+require "omniauth-tti/version"
 require "omniauth/strategies/ttiappauthorizer"
