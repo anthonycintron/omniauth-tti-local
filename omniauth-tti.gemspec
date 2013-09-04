@@ -5,7 +5,7 @@ require 'omniauth-tti/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "omniauth-tti-local"
-  spec.version       = Omniauth::Tti::VERSION
+  spec.version       = "0.0.2"
   spec.authors       = ["Brian Dear"]
   spec.email         = ["superacidjax@me.com"]
   spec.description   = 'Omniauth strategy for Take the Interview'
